@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab6d291d.css",
+    "main.js": "/static/js/main.0f5253d8.js",
+    "static/js/691.035f464d.chunk.js": "/static/js/691.035f464d.chunk.js",
+    "static/js/706.b2a82e9c.chunk.js": "/static/js/706.b2a82e9c.chunk.js",
+    "static/js/378.0ab21f12.chunk.js": "/static/js/378.0ab21f12.chunk.js",
+    "static/js/479.4673d559.chunk.js": "/static/js/479.4673d559.chunk.js",
+    "static/js/634.6dbbb679.chunk.js": "/static/js/634.6dbbb679.chunk.js",
+    "static/js/787.a29a055e.chunk.js": "/static/js/787.a29a055e.chunk.js",
+    "static/js/986.a9ed12ea.chunk.js": "/static/js/986.a9ed12ea.chunk.js",
+    "static/media/your_campaign.jpg": "/static/media/your_campaign.36664527bbbf9e093f76.jpg",
+    "static/media/Campaign_item.jpg": "/static/media/Campaign_item.131c40a87d0467465868.jpg",
+    "static/media/bg_authentic.png": "/static/media/bg_authentic.6e96e426f6a2fa302b63.png",
+    "index.html": "/index.html",
+    "main.ab6d291d.css.map": "/static/css/main.ab6d291d.css.map",
+    "main.0f5253d8.js.map": "/static/js/main.0f5253d8.js.map",
+    "691.035f464d.chunk.js.map": "/static/js/691.035f464d.chunk.js.map",
+    "706.b2a82e9c.chunk.js.map": "/static/js/706.b2a82e9c.chunk.js.map",
+    "378.0ab21f12.chunk.js.map": "/static/js/378.0ab21f12.chunk.js.map",
+    "479.4673d559.chunk.js.map": "/static/js/479.4673d559.chunk.js.map",
+    "634.6dbbb679.chunk.js.map": "/static/js/634.6dbbb679.chunk.js.map",
+    "787.a29a055e.chunk.js.map": "/static/js/787.a29a055e.chunk.js.map",
+    "986.a9ed12ea.chunk.js.map": "/static/js/986.a9ed12ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab6d291d.css",
+    "static/js/main.0f5253d8.js"
+  ]
+}
